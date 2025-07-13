@@ -65,7 +65,7 @@
 
   };
 
-})( jQuery );
+})( jQuery ); //code samples 
 
 
 /* jQuery OwlCarousel v1.3.3
